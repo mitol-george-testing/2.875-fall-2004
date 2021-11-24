@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1bf2a7e0-60ec-27a8-8b22-aa128400037b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mechanical Assembly and Its Role in Product Development",
+  "course_description": "The course presents a systematic approach to design and assembly of mechanical assemblies, which should be of interest to engineering professionals, as well as post-baccalaureate students of mechanical, manufacturing and industrial engineering. It introduces mechanical and economic models of assemblies and assembly automation at two levels. \"Assembly in the small\" includes basic engineering models of part mating, and an explanation of the Remote Center Compliance. \"Assembly in the large\" takes a system view of assembly, including the notion of product architecture, feature-based design, and computer models of assemblies, analysis of mechanical constraint, assembly sequence analysis, tolerances, system-level design for assembly and JIT methods, and economics of assembly automation. Class exercises and homework include analyses of real assemblies, the mechanics of part mating, and a semester long project. Case studies and current research are included.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.875",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
